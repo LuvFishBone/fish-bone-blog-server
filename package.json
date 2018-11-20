@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start server/config/pm2_config.json",
-    "dev-server": "nodemon server/ --exec babel-node"
+    "dev": "nodemon server/ --exec babel-node"
   },
   "repository": {
     "type": "git",
