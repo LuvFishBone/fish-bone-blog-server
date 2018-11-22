@@ -32,7 +32,6 @@
     "not ie <= 8"
   ],
   "dependencies": {
-    "amfe-flexible": "^2.2.1",
     "babel-polyfill": "^6.26.0",
     "glob": "^7.1.2",
     "jsonwebtoken": "^8.3.0",
